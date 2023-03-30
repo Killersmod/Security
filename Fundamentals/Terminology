@@ -1,1 +1,64 @@
 Standards - Open Ioc
+Fundamentals | Certifications | CISSP
+Fundamentals | Certifications | CCNA
+Fundamentals | Certifications | CCSP
+Fundamentals | Certifications | CCNA
+Fundamentals | Certifications | ECIR
+Fundamentals | Terminology Long | Hash
+Fundamentals | Terminology Long | Encode
+Fundamentals | Terminology Long | Encrypt
+HDL | SIEM | Interesting Fields _ SRC_IP
+L7Protocols | HTTP
+L7Protocols | HTTP(s)
+L7Fundamentals | Common Ports
+L7Protocols | HTTP(s) _ Get
+L7Protocols | HTTP(s) _ HSTS
+HDL | SIEM | Best Practices _ Normalization
+Fundamentals | Security Analyst _ Connect The Dots
+Fundamentals | Security Analyst _ Public vs Private IP
+L7Protocols | DNS
+Networking | Foundation _ OSI Model
+Fundamentals | Security Analyst _ 8.8.8.8 DNS for DNS
+Fundamentals | Security Analyst _ Zipped files can escape signatures
+NGFW | Singatures
+NGFW | Firewall
+NGFW | IDS
+NGFW | IPS
+NGFW | WAF
+
+Fundamentals | Security Analyst _ Topology allows you to understand what path a packet follows(which ip it will go to)
+Networking | Foundation _ IPV4
+Networking | Foundation _ IPV6
+Fundamentals | Security Analyst _ Ephermeral Ports
+Fundamentals | Security Analyst _ Network Vunerability Scan
+Fundamentals | Security Analyst _ Web Vunerability Scan
+Networking | Terminology _ Full Duplex and Half Duplex
+
+Standards - RFC
+Standards - Taxii
+Standards - Stix
+HDL | Windows | ICMP
+CTF | Print | Hello _ World
+HLD | Windows | Windows Events
+HLD | Windows | Sysmon Events
+HLD | Windows | PS
+HLD | Windows | PS Empire
+Fundamentals | Security Analyst _ Password exe
+Fundamentals | Security Analyst _ Spreading Malware
+Networking | Terminology _SubNetting
+Fundamentals | Security Analyst _ MITRE ATTACK
+Fundamentals | Security Analyst _ XSS PROBE
+Fundamentals | Security Analyst _ Cookie SID
+Fundamentals | Security Analyst _ SQL Injection
+Fundamentals | Security Analyst _ <Script>
+Fundamentals | Security Analyst _ Resource Exhaustion (code, malware, DoW)
+Fundamentals | Security Analyst _ DDOS
+Fundamentals | Security Analyst _ Malware Commododity
+Fundamentals | Security Analyst _ HTTP Request Status Code
+HLD | Windows | Explorer.exe and UserInit.exe
+HLD | Windows | exe
+Fundamentals | Security Analyst _ PunyCode
+Networking | Terminology _ Span Vs Tap
+Fundamentals | Security Analyst _ HTTP Span Vs Tap
+
+

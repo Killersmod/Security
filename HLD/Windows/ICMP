@@ -1,0 +1,18 @@
+Social Name: Ping
+Protocol Name: ICMP
+Command Name: Ping
+
+
+
+
+
+
+IOC: Data Exfiltration
+Phase:
+Detection: Data can be sent with packet
+Remediation: Pass
+
+IOC: Scanning
+Phase: Reconassince
+Detection: 
+Remediation: Block ICMP
